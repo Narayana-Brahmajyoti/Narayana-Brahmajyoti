@@ -13,13 +13,18 @@
   <img align="center" alt="Nara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Nara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
+  <img align="right" alt="Nara-pic" height="150" style="border-radius:50px;" src="https://cdn.fbsbx.com/v/t59.2708-21/273074006_241326621522703_3807947440847175654_n.gif?_nc_cat=101&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeEWVMoKpfup1ppuR8ukfKlL831ig5sP5hbzfWKDmw_mFsuUx7ANqTmkcaPqhz_PPfU&_nc_ohc=AdBT-tJKbY8AX_dNrGI&_nc_ht=cdn.fbsbx.com&oh=03_AVKYJy-Big6AexaCTPOOWKFJu4RD_rpxTSxQ9jLpxc50bQ&oe=61FCC276">
 </div>
   
  ##
   
  <div> 
   <a href="https://www.instagram.com/narayanabrahmajyoti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+  <a href="https://gitlab.com/Narayana-Brahmajyoti" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/narayana-brahmajyoti-fiuza-de-moura-martins-61963315a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   ![Snake animation](https://github.com/Narayana-Brahmajyoti/Narayana-Brahmajyoti/blob/output/github-contribution-grid-snake.svg)
 </div>

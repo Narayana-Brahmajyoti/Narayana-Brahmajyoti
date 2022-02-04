@@ -12,7 +12,7 @@
   <img align="center" alt="Nara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nara-gif" height="150" style="border-radius:60px;" src="../Gif Nara.gif">
+  <img align="right" alt="Nara-gif" height="150" style="border-radius:60px;" src="https://raw.githubusercontent.com/Narayana-Brahmajyoti/Narayana-Brahmajyoti/Narayana_Brahmajyoti/Gif%20Nara.gif">
 </div>
   
  ##

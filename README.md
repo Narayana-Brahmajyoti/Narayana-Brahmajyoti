@@ -12,7 +12,7 @@
   <img align="center" alt="Nara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nara-gif" height="150" style="border-radius:60px;" src="https://cdn.fbsbx.com/v/t59.2708-21/273074006_241326621522703_3807947440847175654_n.gif?_nc_cat=101&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeEWVMoKpfup1ppuR8ukfKlL831ig5sP5hbzfWKDmw_mFsuUx7ANqTmkcaPqhz_PPfU&_nc_ohc=AdBT-tJKbY8AX_dNrGI&_nc_ht=cdn.fbsbx.com&oh=03_AVKYJy-Big6AexaCTPOOWKFJu4RD_rpxTSxQ9jLpxc50bQ&oe=61FCC276">
+  <img align="right" alt="Nara-gif" height="150" style="border-radius:60px;" src="../Gif Nara.gif">
 </div>
   
  ##

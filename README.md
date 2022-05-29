@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou estudando programação
 - 🎓 Certified Tech Developer - Digital House
-- 🎓 Cursando último período do Curso Técnico em Informática - Ultramig
+- 🎓 Cursando último período do Curso Técnico em Informática - Utramig
 
 <div align="center">
   <a href="https://github.com/Narayana-Brahmajyoti">

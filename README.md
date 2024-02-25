@@ -10,10 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayana-Brahmajyoti&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nara-java" height="30" width="40" src="">
-
-![java](https://github.com/Narayana-Brahmajyoti/Narayana-Brahmajyoti/assets/89326709/f889b85a-860d-4f16-88cc-2ed9ab95ce6e)
-
+  <img align="center" alt="Nara-java" height="30" width="40" src="https://github.com/Narayana-Brahmajyoti/Narayana-Brahmajyoti/assets/89326709/f889b85a-860d-4f16-88cc-2ed9ab95ce6e">
   <img align="center" alt="Nara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
